@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/resources/blackjack_hand.properties" />
+    <file url="file://$PROJECT_DIR$/src/resources/blackjack_hand_es.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/resources/blackjack_hand.properties" />
+      <file value="file://$PROJECT_DIR$/src/resources/blackjack_hand_es.properties" />
+      <base-name>blackjack_hand</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
